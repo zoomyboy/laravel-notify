@@ -1,0 +1,16 @@
+{
+    "name": "zoomyboy/laravel-notify",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "pille@zoomyboy.de"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Zoomyboy\\Notify\\": "src/"
+		}
+	},
+    "require": {}
+}
